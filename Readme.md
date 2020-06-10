@@ -2,8 +2,8 @@
 =======
 1주차 과제 (2020.06.07)
 -----------
-* [인공지능 사례 분석](URL "https://github.com/ChanYeong-AI/GwanJu-AI-Academy-Project/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb")
+* [인공지능 사례 분석](URL "1주차과제.ipynb")
 
 2주차 과제 (2020.06.10)
 -----------
-* [파이썬과 인공지능 기초수학](URL "https://github.com/ChanYeong-AI/GwanJu-AI-Academy-Project/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb")
+* [파이썬과 인공지능 기초수학](URL "2주차과제.ipynb")
